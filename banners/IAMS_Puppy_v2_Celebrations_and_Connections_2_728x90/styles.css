@@ -85,7 +85,7 @@ sup {
 }
 #dog {
     z-index: 2;
-    left: 0px;
+    left: 16px;
     top: 0px
 }
 #packshot {
@@ -118,11 +118,11 @@ sup {
 }
 #text2 {
     font-family: "AvenirNextMedium", sans-serif;
-    font-size: 19px;
-    line-height: 23px;
+    font-size: 18px;
+    line-height: 22px;
     left: 112px;
-    top: 21px;
-    width: 230px;
+    top: 10px;
+    width: 320px;
     text-align: left;
     overflow: visible
 }
