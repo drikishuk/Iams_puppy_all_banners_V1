@@ -1,5 +1,5 @@
 const myBanners = [
-  'IAMS_Puppy_v2_Celebrations_and_connections_1_160x600',
+  'IAMS_Puppy_v2_Celebrations_and_Connections_1_160x600',
   'IAMS_Puppy_v2_Celebrations_and_Connections_1_300x250',
   'IAMS_Puppy_v2_Celebrations_and_Connections_1_300x50',
   'IAMS_Puppy_v2_Celebrations_and_Connections_1_300x600',
